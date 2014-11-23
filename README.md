@@ -1,6 +1,7 @@
 ### Description
 
-The script is used to calculate the average of each variable in the given data set for each subject and activity.
+The script is used to calculate the average of each variable in the given data set for each subject and activity. The script first reads all the test data and training data. A final data set is created by combining the test and train data. 
+All required computations are done based on this final data.
 
 ### Details
 
