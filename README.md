@@ -1,8 +1,3 @@
----
-title: "run_analysis"
-output: html_document
----
-
 ### Description
 
 The script is used to calculate the average of each variable in the given data set for each subject and activity.
